@@ -8,7 +8,7 @@ Meliputi contoh endpoint berikut
 - view engine routing : `/contoh4?name=xx&country=xx`
 
 Cara install
-`$ git clone https://github.com/yogski/node-express-basics.git`
-`$ cd node-express-basics`
-`$ npm install`
-`$ npm start`
+- `$ git clone https://github.com/yogski/node-express-basics.git`
+- `$ cd node-express-basics`
+- `$ npm install`
+- `$ npm start`
