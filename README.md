@@ -12,3 +12,8 @@ Cara install
 - `$ cd node-express-basics`
 - `$ npm install`
 - `$ npm start`
+
+## To-do
+- Pisahkan routing ke file sendiri, namanya routes.js
+- Di dalam routes.js berikan tambahan baris untuk export
+- Di dalam server.js, lakukan import routes dan use routes.
